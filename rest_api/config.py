@@ -1,0 +1,3 @@
+VK_API_KEY = ''
+API_VERSION = 5.81
+USER_ID = 1
